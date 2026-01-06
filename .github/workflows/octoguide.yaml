@@ -10,7 +10,7 @@ jobs:
           include-associations: "FIRST_TIMER,FIRST_TIME_CONTRIBUTOR,CONTRIBUTOR,MEMBER,OWNER"
           rules: |
             {
-              "comment-meaningful": false
+              "comment-meaningful": true
             }
 
 name: OctoGuide
